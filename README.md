@@ -156,12 +156,13 @@ Since I code to calm down, every project matches a mood.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=suhaniisme&show_icons=true&hide_border=true&bg_color=00000000&title_color=FF6FAE&text_color=9CA3AF&icon_color=B79CED&ring_color=FF6FAE&include_all_commits=true"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhaniisme&layout=compact&hide_border=true&bg_color=00000000&title_color=FF6FAE&text_color=9CA3AF"/>
-
 <img src="https://streak-stats.demolab.com?user=suhaniisme&hide_border=true&background=00000000&ring=FF6FAE&fire=FF6FAE&currStreakLabel=B79CED&sideLabels=9CA3AF&currStreakNum=9CA3AF&sideNums=9CA3AF&dates=9CA3AF"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=suhaniisme&bg_color=00000000&color=FF6FAE&line=B79CED&point=FF6FAE&area=true&hide_border=true&title_color=FF6FAE" width="95%"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suhaniisme&theme=radical"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suhaniisme&theme=radical"/>
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suhaniisme&theme=radical"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suhaniisme&theme=radical"/>
 
 </div>
 
