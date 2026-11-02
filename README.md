@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Suhani%20Jain&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%F0%9F%8E%80%20I%20code%20for%20calming%20myself%20down&descSize=20&descAlignY=58" alt="Suhani Jain banner" width="100%"/>
 
-<a href="https://github.com/suhani100821">
+<a href="https://github.com/suhaniisme">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=FF6FAE&center=true&vCenter=true&width=640&height=50&lines=%3E+print(%22hello%2C+world+%F0%9F%8E%80%22);%3E+Student+%40+MPSTME%2C+NMIMS+%F0%9F%8E%93;%3E+Mumbai+%F0%9F%8C%86;%3E+HTML+%7C+CSS+%7C+Kotlin+%7C+Python+%7C+C+%7C+C%2B%2B;%3E+Java+%7C+JS+%7C+SQL;%3E+debugging+is+my+meditation+%F0%9F%A7%98%E2%80%8D%E2%99%80%EF%B8%8F" alt="Typing animation"/>
 </a>
 
@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/suhani-jain-36b6aa26a/"><img src="https://img.shields.io/badge/LinkedIn-Suhani%20Jain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MPSTME-NMIMS-FF6FAE?style=for-the-badge&logo=googlescholar&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mumbai-India-B79CED?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-<img src="https://komarev.com/ghpvc/?username=suhani100821&label=Profile%20views&color=ff6fae&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=suhaniisme&label=Profile%20views&color=ff6fae&style=for-the-badge"/>
 
 </div>
 
@@ -74,7 +74,7 @@ print(me.when_stressed())   # >>> calm ✨
 <tr>
 <td width="50%" valign="top">
 
-### 🌆♻️ [Smart Sustainable City Solutions](https://github.com/suhani100821/Smart-sustainable-city-solutions)
+### 🌆♻️ [Smart Sustainable City Solutions](https://github.com/suhaniisme/Smart-sustainable-city-solutions)
 An **interactive map of a smart city** packed with eco-friendly solutions, built to spread awareness about a sustainable *and* smart environment. Includes a solar simulator, motion-light and smart-bin demos.
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/Interactive%20Map-34D399?style=flat-square"/> <img src="https://img.shields.io/badge/Sustainability-22C55E?style=flat-square"/>
@@ -82,7 +82,7 @@ An **interactive map of a smart city** packed with eco-friendly solutions, built
 </td>
 <td width="50%" valign="top">
 
-### 🧾🤖 [Invoice Reader](https://github.com/suhani100821/Invoice-reader)
+### 🧾🤖 [Invoice Reader](https://github.com/suhaniisme/Invoice-reader)
 Reads invoices in **JPG/PNG or PDF**, uses an **OCR model** to pull out the data, and drops it straight into an **Excel sheet**. No more manual typing.
 
 <img src="https://img.shields.io/badge/OCR-8B5CF6?style=flat-square"/> <img src="https://img.shields.io/badge/Machine%20Learning-F59E0B?style=flat-square"/> <img src="https://img.shields.io/badge/Excel%20Export-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
@@ -92,7 +92,7 @@ Reads invoices in **JPG/PNG or PDF**, uses an **OCR model** to pull out the data
 <tr>
 <td width="50%" valign="top">
 
-### 🤱💕 [Mumsie](https://github.com/suhani100821/Mumsie)
+### 🤱💕 [Mumsie](https://github.com/suhaniisme/Mumsie)
 An **e-commerce website for pregnant and postpartum moms** and baby essentials, with cart, checkout, a custom payment page (MumPay), blogs, FAQs and a maps page.
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -100,7 +100,7 @@ An **e-commerce website for pregnant and postpartum moms** and baby essentials, 
 </td>
 <td width="50%" valign="top">
 
-### 🛍️✨ [River Clothing](https://github.com/suhani100821/River-clothing-Genz-clothing-)
+### 🛍️✨ [River Clothing](https://github.com/suhaniisme/River-clothing-Genz-clothing-)
 A college-project **clothing e-commerce store for Gen Z**, with separate Upper, Lower and Accessories collections, product pages and its own brand identity.
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -110,7 +110,7 @@ A college-project **clothing e-commerce store for Gen Z**, with separate Upper, 
 <tr>
 <td width="50%" valign="top">
 
-### 🚀🏆 [HackMate](https://github.com/suhani100821/HackMate)
+### 🚀🏆 [HackMate](https://github.com/suhaniisme/HackMate)
 A **one-stop solution for all your hackathon problems**: built for the moment when the deadline is close and the ideas are not.
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/Hackathons-FF6FAE?style=flat-square"/>
@@ -118,7 +118,7 @@ A **one-stop solution for all your hackathon problems**: built for the moment wh
 </td>
 <td width="50%" valign="top">
 
-### 🎂🎉 [Birthdayy](https://github.com/suhani100821/Birthdayy)
+### 🎂🎉 [Birthdayy](https://github.com/suhaniisme/Birthdayy)
 A **cute birthday website for your loved ones**, because *efforts matter*. Made to be sent, opened, and smiled at.
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Made%20with-Love-FF6FAE?style=flat-square"/>
@@ -129,7 +129,7 @@ A **cute birthday website for your loved ones**, because *efforts matter*. Made 
 
 <div align="center">
 
-[![All repositories](https://img.shields.io/badge/See%20all%20repositories-%E2%86%92-B79CED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suhani100821?tab=repositories)
+[![All repositories](https://img.shields.io/badge/See%20all%20repositories-%E2%86%92-B79CED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suhaniisme?tab=repositories)
 
 </div>
 
@@ -142,12 +142,12 @@ Since I code to calm down, every project matches a mood.
 
 | When I feel... | I build... |
 | :-- | :-- |
-| 🌍 Like fixing the world | [Smart Sustainable City Solutions](https://github.com/suhani100821/Smart-sustainable-city-solutions) |
-| 🧾 Buried in boring paperwork | [Invoice Reader](https://github.com/suhani100821/Invoice-reader) |
-| 🤱 Soft and caring | [Mumsie](https://github.com/suhani100821/Mumsie) |
-| 🛍️ In a shopping mood | [River Clothing](https://github.com/suhani100821/River-clothing-Genz-clothing-) |
-| ⏰ Racing a hackathon deadline | [HackMate](https://github.com/suhani100821/HackMate) |
-| 🎂 Wanting to make someone's day | [Birthdayy](https://github.com/suhani100821/Birthdayy) |
+| 🌍 Like fixing the world | [Smart Sustainable City Solutions](https://github.com/suhaniisme/Smart-sustainable-city-solutions) |
+| 🧾 Buried in boring paperwork | [Invoice Reader](https://github.com/suhaniisme/Invoice-reader) |
+| 🤱 Soft and caring | [Mumsie](https://github.com/suhaniisme/Mumsie) |
+| 🛍️ In a shopping mood | [River Clothing](https://github.com/suhaniisme/River-clothing-Genz-clothing-) |
+| ⏰ Racing a hackathon deadline | [HackMate](https://github.com/suhaniisme/HackMate) |
+| 🎂 Wanting to make someone's day | [Birthdayy](https://github.com/suhaniisme/Birthdayy) |
 
 <br/>
 
@@ -156,12 +156,12 @@ Since I code to calm down, every project matches a mood.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=suhani100821&show_icons=true&hide_border=true&bg_color=00000000&title_color=FF6FAE&text_color=9CA3AF&icon_color=B79CED&ring_color=FF6FAE&include_all_commits=true"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhani100821&layout=compact&hide_border=true&bg_color=00000000&title_color=FF6FAE&text_color=9CA3AF"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=suhaniisme&show_icons=true&hide_border=true&bg_color=00000000&title_color=FF6FAE&text_color=9CA3AF&icon_color=B79CED&ring_color=FF6FAE&include_all_commits=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhaniisme&layout=compact&hide_border=true&bg_color=00000000&title_color=FF6FAE&text_color=9CA3AF"/>
 
-<img src="https://streak-stats.demolab.com?user=suhani100821&hide_border=true&background=00000000&ring=FF6FAE&fire=FF6FAE&currStreakLabel=B79CED&sideLabels=9CA3AF&currStreakNum=9CA3AF&sideNums=9CA3AF&dates=9CA3AF"/>
+<img src="https://streak-stats.demolab.com?user=suhaniisme&hide_border=true&background=00000000&ring=FF6FAE&fire=FF6FAE&currStreakLabel=B79CED&sideLabels=9CA3AF&currStreakNum=9CA3AF&sideNums=9CA3AF&dates=9CA3AF"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=suhani100821&bg_color=00000000&color=FF6FAE&line=B79CED&point=FF6FAE&area=true&hide_border=true&title_color=FF6FAE" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=suhaniisme&bg_color=00000000&color=FF6FAE&line=B79CED&point=FF6FAE&area=true&hide_border=true&title_color=FF6FAE" width="95%"/>
 
 </div>
 
@@ -172,7 +172,7 @@ Since I code to calm down, every project matches a mood.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/suhani100821/suhani100821/output/github-snake-dark.svg" alt="Snake eating my contributions"/>
+<img src="https://raw.githubusercontent.com/suhaniisme/suhaniisme/output/github-snake-dark.svg" alt="Snake eating my contributions"/>
 
 </div>
 
