@@ -70,17 +70,57 @@ print(me.when_stressed())   # >>> calm ✨
 <!-- ═══════════ PROJECTS ═══════════ -->
 ## 🛍️ Things I've Built
 
+*Ranked from the projects I've put the most hard work into, down to the quick and fun ones.*
+
 <table>
 <tr>
+<td colspan="2" valign="top">
+
+<sub>🥇 **#1 · Most hard work went into this**</sub>
+
+### 🏪🤖 [Pragati AI](https://github.com/suhaniisme/Pragati-AI)
+An **AI dashboard for local Kirana stores and small business owners**. Snap a photo of a paper receipt or invoice and it **reads the text with OCR**, pulls out the items, prices and totals, organises the records, and **emails a digital receipt** to the customer. Image data is processed locally to keep business records private.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/EasyOCR-8B5CF6?style=flat-square"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
+
+<sub>🥈 **#2 · A huge build**</sub>
+
+### 🤱💕 [Mumsie](https://github.com/suhaniisme/Mumsie)
+An **e-commerce website for pregnant and postpartum moms** and baby essentials, with cart, checkout, a custom payment page (MumPay), blogs, FAQs and a maps page.
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+</td>
+<td width="50%" valign="top">
+
+<sub>🥉 **#3 · Big college project**</sub>
+
+### 🛍️✨ [River Clothing](https://github.com/suhaniisme/River-clothing-Genz-clothing-)
+A **clothing e-commerce store for Gen Z**, with separate Upper, Lower and Accessories collections, product pages and its own brand identity.
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<sub>**#4 · Built with a lot of heart**</sub>
 
 ### 🌆♻️ [Smart Sustainable City Solutions](https://github.com/suhaniisme/Smart-sustainable-city-solutions)
 An **interactive map of a smart city** packed with eco-friendly solutions, built to spread awareness about a sustainable *and* smart environment. Includes a solar simulator, motion-light and smart-bin demos.
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/Interactive%20Map-34D399?style=flat-square"/> <img src="https://img.shields.io/badge/Sustainability-22C55E?style=flat-square"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/Interactive%20Map-34D399?style=flat-square"/>
 
 </td>
 <td width="50%" valign="top">
+
+<sub>**#5 · Where the OCR journey began**</sub>
 
 ### 🧾🤖 [Invoice Reader](https://github.com/suhaniisme/Invoice-reader)
 Reads invoices in **JPG/PNG or PDF**, uses an **OCR model** to pull out the data, and drops it straight into an **Excel sheet**. No more manual typing.
@@ -92,36 +132,22 @@ Reads invoices in **JPG/PNG or PDF**, uses an **OCR model** to pull out the data
 <tr>
 <td width="50%" valign="top">
 
-### 🤱💕 [Mumsie](https://github.com/suhaniisme/Mumsie)
-An **e-commerce website for pregnant and postpartum moms** and baby essentials, with cart, checkout, a custom payment page (MumPay), blogs, FAQs and a maps page.
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-
-</td>
-<td width="50%" valign="top">
-
-### 🛍️✨ [River Clothing](https://github.com/suhaniisme/River-clothing-Genz-clothing-)
-A college-project **clothing e-commerce store for Gen Z**, with separate Upper, Lower and Accessories collections, product pages and its own brand identity.
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<sub>**#6 · Built for the hackathon rush**</sub>
 
 ### 🚀🏆 [HackMate](https://github.com/suhaniisme/HackMate)
 A **one-stop solution for all your hackathon problems**: built for the moment when the deadline is close and the ideas are not.
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/Hackathons-FF6FAE?style=flat-square"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 
 </td>
 <td width="50%" valign="top">
 
+<sub>**#7 · Quick and fun**</sub>
+
 ### 🎂🎉 [Birthdayy](https://github.com/suhaniisme/Birthdayy)
 A **cute birthday website for your loved ones**, because *efforts matter*. Made to be sent, opened, and smiled at.
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Made%20with-Love-FF6FAE?style=flat-square"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 
 </td>
 </tr>
@@ -142,6 +168,7 @@ Since I code to calm down, every project matches a mood.
 
 | When I feel... | I build... |
 | :-- | :-- |
+| 🏪 Wanting to help small businesses | [Pragati AI](https://github.com/suhaniisme/Pragati-AI) |
 | 🌍 Like fixing the world | [Smart Sustainable City Solutions](https://github.com/suhaniisme/Smart-sustainable-city-solutions) |
 | 🧾 Buried in boring paperwork | [Invoice Reader](https://github.com/suhaniisme/Invoice-reader) |
 | 🤱 Soft and caring | [Mumsie](https://github.com/suhaniisme/Mumsie) |
